@@ -20,6 +20,9 @@ namespace GenericsIntro
                 Console.WriteLine(isim);
             }
 
+            MyDictionary<int, string> iller = new MyDictionary<int, string>();
+
+
         }
     }
 }
